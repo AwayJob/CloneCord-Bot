@@ -1,6 +1,6 @@
 aiohttp[speedups]
-winget install --id Git.Git -e --source winget
-git https://github.com/Rapptz/discord.py
+sudo apt-get update
+sudo apt-get install git
 
 asyncio
 python-dotenv
