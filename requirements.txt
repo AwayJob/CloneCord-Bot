@@ -1,5 +1,6 @@
 aiohttp[speedups]
-git+https://github.com/Rapptz/discord.py
+sudo dnf install git-all
+git https://github.com/Rapptz/discord.py
 
 asyncio
 python-dotenv
