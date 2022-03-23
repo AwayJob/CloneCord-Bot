@@ -1,5 +1,5 @@
 aiohttp[speedups]
-sudo dnf install git-all
+winget install --id Git.Git -e --source winget
 git https://github.com/Rapptz/discord.py
 
 asyncio
