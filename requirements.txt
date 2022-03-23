@@ -1,6 +1,6 @@
 aiohttp[speedups]
 
-git
+apt-get install git
 git+https://github.com/Rapptz/discord.py
 
 asyncio
